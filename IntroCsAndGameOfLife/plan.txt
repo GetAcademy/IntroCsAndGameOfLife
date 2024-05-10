@@ -1,0 +1,9 @@
+﻿top-level statements
+de viktigste datatypene
+var
+casting, parse 
+enum
+overloads og default parametre
+arrays
+tilfeldige tall
+Game of life
