@@ -1,9 +1,9 @@
 ﻿top-level statements
 de viktigste datatypene
 var
-casting, parse 
+Convert, casting, parse 
 enum
 overloads og default parametre
-arrays
 tilfeldige tall
+arrays
 Game of life

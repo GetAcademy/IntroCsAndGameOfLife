@@ -1,6 +1,9 @@
 ﻿using IntroCsAndGameOfLife;
 
-DataTypesDemo.Run();
+//DataTypesDemo.Run();
+//EnumDemo.Run();
+//DefaultParamDemo.Run();
+RandomDemo.Run();
 //Console.WriteLine(args.Length);
 
 

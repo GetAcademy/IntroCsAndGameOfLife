@@ -28,6 +28,9 @@
             var d = 3.3;
             var b = true;
             var yesOrOn = b ? "Ja" : "Nei";
+            string s2 = "Ja"; // eller "Nei"
+            bool b2 = s2 == "Ja";
+
             double d2 = i;
 
             /*
