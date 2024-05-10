@@ -3,7 +3,9 @@
 //DataTypesDemo.Run();
 //EnumDemo.Run();
 //DefaultParamDemo.Run();
-RandomDemo.Run();
+//RandomDemo.Run();
+//ArrayDemo.Run();
+GameOfLife.Run();
 //Console.WriteLine(args.Length);
 
 
